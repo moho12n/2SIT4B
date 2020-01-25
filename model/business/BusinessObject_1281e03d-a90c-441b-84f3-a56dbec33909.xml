@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ensemble d'indicateurs (KPI)"
+    id="1281e03d-a90c-441b-84f3-a56dbec33909"
+    documentation="&#xD;&#xA;• Équité interne : % de collaborateurs rémunérés en dessous, au-dessus de leur&#xD;&#xA;groupe référent&#xD;&#xA;• Compétitivité : % de collaborateurs rémunérés en dessous, à la médiane, au-dessus&#xD;&#xA;du marché de référence&#xD;&#xA;• % de HP augmentés&#xD;&#xA;• % de collaborateurs performants auxquels une prime supérieure à x a été versée&#xD;&#xA;• % de salariés satisfaits du système de rémunération"/>
