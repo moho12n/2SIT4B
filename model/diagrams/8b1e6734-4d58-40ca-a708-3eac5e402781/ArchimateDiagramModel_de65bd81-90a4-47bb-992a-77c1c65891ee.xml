@@ -8,8 +8,8 @@
       id="cd495496-eef6-45f4-943f-5cfeb7b31d54"
       targetConnections="afa64821-ea72-4d6d-905e-1973c1b6aa44">
     <bounds
-        x="1201"
-        y="293"
+        x="828"
+        y="299"
         width="120"
         height="55"/>
     <archimateElement
@@ -64,8 +64,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="c8df2dab-9c15-4d99-8a3c-ebf4f79e575f">
     <bounds
-        x="217"
-        y="329"
+        x="288"
+        y="324"
         width="268"
         height="149"/>
     <children
