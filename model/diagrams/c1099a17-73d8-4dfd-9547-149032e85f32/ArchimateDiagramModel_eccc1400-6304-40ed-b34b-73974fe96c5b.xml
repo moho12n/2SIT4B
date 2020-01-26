@@ -317,6 +317,16 @@
           source="58ea0860-7091-4c10-87ea-f053c1cb4d71"
           target="824d1dec-b2fe-4f8f-b6e8-447c5b3adfa8">
         <bendpoints
+            startX="82"
+            startY="6"
+            endX="-386"
+            endY="-180"/>
+        <bendpoints
+            startX="94"
+            startY="6"
+            endX="-374"
+            endY="-180"/>
+        <bendpoints
             startX="96"
             startY="28"
             endX="-372"
