@@ -262,7 +262,7 @@
     <bounds
         x="516"
         y="600"
-        width="188"
+        width="216"
         height="49"/>
     <archimateElement
         xsi:type="archimate:ApplicationService"
@@ -395,7 +395,7 @@
     </sourceConnections>
     <bounds
         x="572"
-        y="835"
+        y="852"
         width="120"
         height="85"/>
     <archimateElement
@@ -499,32 +499,6 @@
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_32a77459-a74f-47b6-aa58-340f0876b3b2.xml#32a77459-a74f-47b6-aa58-340f0876b3b2"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="ac4940de-d9c8-46e5-9896-ae5e969fb818"
-      font="1|Segoe UI|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI">
-    <bounds
-        x="-72"
-        y="1003"
-        width="216"
-        height="171"/>
-    <archimateElement
-        xsi:type="archimate:Node"
-        href="Node_e2e89517-a5db-4709-9920-ef085f00eba8.xml#e2e89517-a5db-4709-9920-ef085f00eba8"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="3f450057-ff02-4e09-aba9-9e76ea60aa59"
-      font="1|Segoe UI|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI">
-    <bounds
-        x="160"
-        y="876"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:CommunicationNetwork"
-        href="CommunicationNetwork_27ad38f3-45ae-49f0-baa7-0083eed80153.xml#27ad38f3-45ae-49f0-baa7-0083eed80153"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
